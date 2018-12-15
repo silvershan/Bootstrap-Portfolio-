@@ -1,0 +1,79 @@
+/* contact.html */
+  
+  h2 {
+    font-size: 24px;
+    border-bottom: 5px solid #cccccc;
+    padding: 20px;
+    width: 870px;
+    margin-left: 20px;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+#container {
+  background: #ffffff;
+  margin: 50px;
+  color:  #777777;
+  font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  width: 960px;
+  font-size: 15px;
+  height: 500px;
+  margin-left: 220px;
+  position: relative;
+  margin-top: 40px;
+  margin-bottom: 115px;
+}
+
+input, textarea {
+    margin-top: 5px;
+    margin-left: 30px;
+}
+
+label, textarea {
+    margin-left: 30px;
+}
+
+input {
+    width: 900px;
+    margin-left: 30px;
+  }
+  
+  #message {
+    height:200px; 
+    width:960px;
+    border: 1px solid #ccc;
+    margin-left: 20px;
+  }
+  
+button {
+    background: #4aaaa5;
+    color: white;
+    height: 50px;
+    width: 90px;
+  }
+
+footer {
+    position: fixed;
+    clear: both;
+    bottom: 0;
+    left: 0;
+    background-color: #666666;
+    color: white;
+    border-top: 10px solid #4aaaa5;
+    height: 60px;
+    font-size: 12px;
+    overflow: auto;
+    width: 100%;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    text-align: center;
+    }
+
+nav {
+    background: #4aaaa5;
+    color: white;
+}
+
+.bg-dark {
+    background: #4aaaa5;
+}
